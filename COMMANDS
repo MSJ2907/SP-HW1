@@ -1,0 +1,5 @@
+To compile, run the below code:
+gcc SEARCH CODE_search.c
+
+To run, run the below code:
+./a.out
